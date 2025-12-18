@@ -1,4 +1,4 @@
-Python Assignment 2
+## Python Assignment 2
 
 # Description
 This assignment covers Python control structures including conditional statements and loops.
